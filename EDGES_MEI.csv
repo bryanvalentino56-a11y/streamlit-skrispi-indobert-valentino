@@ -1,0 +1,10 @@
+from_node,to_node,wight,type,keterangan
+V001,F001,1,reply,jejouw balas di postingan @folkative
+V002,F001,1,reply,connectedatid balas dipostingan @folkative
+N001,V001,1,reply,sannn25._ balas dipostingan @jejouw (netral)
+N002,V001,1,reply,gilngrmdh balas dipostingan @jejouw (netral)
+N003,V001,1,reply,rifialtri.m balas dipostingan @jejouw (netral)
+N004,V001,1,reply,rbgprawironugroho balas dipostingan @jejouw (pro)
+N005,V002,1,reply,rifialtri.m balas dipostingan @connectedatid (netral)
+N006,V002,1,reply,radiansaid balas dipostingan @connectedatid (pro)
+N007,V002,1,reply,widyamandattrilasdri39 balas dipostingan @connectedatid (kontra)

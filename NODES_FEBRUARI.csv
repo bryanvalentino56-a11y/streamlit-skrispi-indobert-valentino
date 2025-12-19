@@ -1,0 +1,16 @@
+node_id,label,verified,opini,peran
+F001,Folkative,TRUE,-,Media
+V001,gurugembul,TRUE,pro,Verified
+V002,antarestar_outdoor,TRUE,pro,Verified
+V003,untungstore,TRUE,pro,Verified
+N001,suro_fikri,FALSE,kontra,Pengikut V001
+N002,syahrul_mrvl_,FALSE,netral,Pengikut V001
+N003,maulanahmad._,FALSE,netral,Pengikut V001
+N004,laannn9,FALSE,pro,Pengikut V002
+N005,herwantaruna,FALSE,kontra,Pengikut V002
+N006,utaaann,FALSE,pro,Pengikut V002
+N007,astuty_ar,FALSE,kontra,Pengikut V002
+N008,_neverstiv,FALSE,netral,Pengikut V003
+N009,freddyichsan,FALSE,pro,Pengikut V003
+N010,fr_arrazi,FALSE,pro,Pengikut V003
+N011,doremiors,FALSE,pro,Pengikut V003

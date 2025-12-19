@@ -1,0 +1,9 @@
+node_id,label,verified,opini,peran
+F001,Folkative,TRUE,-,Media
+V001,Scorpioadamsss,TRUE,netral,Verified
+V002,Nurhamid,TRUE,kontra,Verified
+N001,Njwanila._,FALSE,netral,Pengikut V001
+N002,itsdyr_,FALSE,pro,Pengikut V001
+N003,daniel_,FALSE,kontra,Pengikut V001
+N004,Tugunk_.,FALSE,netral,Pengikut V002
+N005,budi_art,FALSE,pro,Pengikut V002

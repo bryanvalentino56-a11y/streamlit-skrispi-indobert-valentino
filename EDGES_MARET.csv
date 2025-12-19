@@ -1,0 +1,15 @@
+from_node,to_node,weight,type,keterangan
+V001,F001,1,reply,universitasmultimedianusantara komen di postingan @folkative
+V002,F001,1,reply,polysilaneindonesia komen dipostingan @folkative
+N001,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N002,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N003,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N004,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N005,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N006,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N007,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N008,V001,1,reply,Balasan untuk universitasmultimedianusantara (pro)
+N009,V002,1,reply,Balasan untuk polysilaneindonesia (pro)
+N010,V002,1,reply,Balasan untuk polysilaneindonesia (pro)
+N011,V002,1,reply,Balasan untuk polysilaneindonesia (pro)
+N012,V002,1,reply,Balasan untuk polysilaneindonesia (pro)

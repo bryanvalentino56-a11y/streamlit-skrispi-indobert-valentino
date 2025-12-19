@@ -1,0 +1,11 @@
+nodes_id,label,verified,opini,peran
+F001,Folkative,TRUE,-,Media
+V001,jejouw,TRUE,Netral,Verified
+V002,connectedatid,TRUE,Kontra,Verified
+N001,sannn25._,FALSE,NETRAL,Pengikut V001
+N002,gilngrmdh,FALSE,NETRAL,Pengikut V001
+N003,rifialtri.m,FALSE,NETRAL,Pengikut V001
+N004,rbgprawironugroho,FALSE,PRO,Pengikut V001
+N005,rifialtri.m,FALSE,NETRAL,Pengikut V001
+N006,radiansaid,FALSE,PRO,Pengikut V002
+N007,widyamandattrilasdri39,FALSE,KONTRA,Pengikut V002

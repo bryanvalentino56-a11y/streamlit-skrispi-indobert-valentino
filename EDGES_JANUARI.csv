@@ -1,0 +1,8 @@
+from_node,to_node,weight,type,keterangan
+V001,F001,1,reply,Scorpioadamsss komen di postingan @folkative
+V002,F001,1,reply,Nurhamid komen di postingan @folkative
+N001,V001,1,reply,Balasan untuk Scorpioadamsss (Netral)
+N002,V001,1,reply,Balasan untuk Scorpioadamsss (Netral)
+N003,V001,1,reply,Balasan untuk Scorpioadamsss (Netral)
+N004,V002,1,reply,Balasan untuk Nurhamid (kontra)
+N005,V002,1,reply,Balasan untuk Nurhamid (kontra)

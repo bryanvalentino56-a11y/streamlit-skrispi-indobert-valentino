@@ -1,0 +1,5 @@
+from_node,to_node,weight,type,keterangan
+V001,F001,1,reply,okkapratama komen di postingan @folkative
+N001,V001,1,reply,rmaruf_28 komen dipostingan @okkapratama
+N002,V001,1,reply,imelda.mahardika komen dipostingan @okkapratama
+N003,V001,1,reply,livi_lestari02komen dipostingan @okka[ratama

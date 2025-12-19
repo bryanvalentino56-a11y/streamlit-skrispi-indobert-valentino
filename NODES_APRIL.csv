@@ -1,0 +1,6 @@
+nodes_id,label,verified,opini,peran
+F001,Folkative,TRUE,-,Media
+V001,okkapratama,TRUE,pro,Verified
+N001,rmaruf_28,FALSE,pro,Pengikut V001
+N002,imelda.mahardika,FALSE,pro,Pengikut V001
+N003,livi_lestari02,FALSE,pro,Pengikut V001

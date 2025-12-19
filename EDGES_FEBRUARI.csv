@@ -1,0 +1,15 @@
+from_node,to_node,weight,type,keterangan
+V001,F001,1,reply,Gurugembul balasasn komen dipostingan @folkative
+V002,F001,1,reply,antarestar balasan komen dipostingan @folkative
+V003,F001,1,reply,untungstore balasan komen dipostingan @folkative
+N001,V001,1,reply,Balasan untuk @Gurugembul (kontra)
+N002,V001,1,reply,Balasan untuk @Gurugembul (netral)
+N003,V001,1,reply,Balasan untuk @Gurugembul (netral)
+N004,V002,1,reply,Balasan untuk @antarestar_outdoors (pro)
+N005,V002,1,reply,Balasan untuk @antarestar_outdoors (kontra)
+N006,V002,1,reply,Balasan untuk @antarestar_outdoors (pro)
+N007,V002,1,reply,Balasan untuk @antarestar_outdoors (kontra)
+N008,V003,1,reply,Balasan untuk @untungstore (netral)
+N009,V003,1,reply,Balasan untuk @untungstore (pro)
+N010,V003,1,reply,Balasan untuk @untungstore (pro)
+N011,V003,1,reply,Balasan untuk @untungstore (pr)
